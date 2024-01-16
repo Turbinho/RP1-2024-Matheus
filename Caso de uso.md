@@ -1,7 +1,7 @@
 # Caso de Uso:  Sistema de agendamento para restaurante de escola.
  
 
-## Descrição: este caso de uso será chamado pelo usuário para agendar uma refeição.
+### Descrição: este caso de uso será chamado pelo usuário para agendar uma refeição.
 
 
 **Ator Principal:** Aluno/Servidor;
@@ -40,7 +40,7 @@
 
  
 
-Fluxos Alternativos: 
+## Fluxos Alternativos: 
 
 
 1.  *O usuário insere um CPF não cadastrado ou insiriu errado, assim como a senha:* É mostrado uma notificação de senha incorreta, pedindo pra redigitar caso algo esteja errado.
